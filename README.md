@@ -1,0 +1,2 @@
+# Landing_page_defualt_1
+Landing_page_defualt_on_ HTML_SCSS_and_JavaScript
